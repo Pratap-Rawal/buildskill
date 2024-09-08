@@ -43,3 +43,4 @@ Together all this defines what is an organization is paid for.
 ## Theory of business is a Hypothesis for success of business.
 
 This after copying and pasting using cat and edited using vim.
+this is a line I am addding in terminal (ubuntu), since vscode did not update it.
