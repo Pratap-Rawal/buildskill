@@ -1,3 +1,5 @@
 this is edited using nano in vscode.
 Now I am writing this sentence directly in the vscode window. Then I am going to save it with cntr plus s.
 everytime I try to save items edited directly in the vscode, I must authenticate with password. It shows error.
+
+Whenever the terminal is stuck with END press q to END
