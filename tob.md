@@ -11,21 +11,25 @@ Theory of business is the sum of assumptions a business has for its customers, m
 A clear, consistent, and focussed valid theory is extraordinaraly powerful in achieving organizational objectives.
 
 
-## Policies - Practices - Procedures
+**Policies - Practices - Procedures**
 
 
-##Theory of Business (TOB) has three main assumptions about the organization.
+## Theory of Business (TOB) has three main assumptions about the organization.
 
 ### 1. Assumption about the environment of the organization
         i. society and its structures
         ii. the market
         iii. the customer
         iv. the technology
+
 Together all this defines what is an organization is paid for.
 
 ### 2. Assumptions about the mission of the organization:
-        that is what an organizations considers meaningful results, how it makes a difference.
+        
+        That is what an organizations considers meaningful results, how it makes a difference.
+
 ### 3. Assumptions about the core competencies needed to accomplish the organization's mission.
+        
         where the organization must excel.
 
 
