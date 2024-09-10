@@ -1,5 +1,9 @@
  # Formula to tag
 
+
+ ## Strive to find the logical soundness in every reading.
+
+
 ### 1, DATA, Background information - to support or as evidence of a claim - Green
 
 ### 3, (Since) Warrant- the theory that connects data to claim - Yellow
